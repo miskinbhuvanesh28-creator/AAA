@@ -1,0 +1,6 @@
+{
+  "name": "విశ్వ జ్యోతిష్య మహా పీఠం | ASTROJYOTISH PRO",
+  "description": "Interactive Vedic, KP, Jaimini, Numerology, Panchanga, and Gemini AI Astrology Chart & Report Suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

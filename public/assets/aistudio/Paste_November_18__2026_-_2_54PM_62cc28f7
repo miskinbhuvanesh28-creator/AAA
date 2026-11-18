@@ -1,0 +1,1441 @@
+# ASTROJYOTISH PRO — ULTIMATE ONE-STEP MASTER IMPLEMENTATION PROMPT
+## Complete Professional Vedic Astrology Platform | Full Sidebar Navigation | All Modules | Calculation Engines | AI | Reports | Backend
+
+## MASTER EXECUTION DIRECTIVE
+
+Act as a principal software architect, senior full-stack engineer, professional Vedic astrologer, Parashari and KP specialist, Jaimini researcher, astronomical calculation engineer, AI integration engineer, database architect, UI/UX designer and quality assurance engineer.
+
+Your responsibility is to inspect, upgrade, complete and finalize my existing **ASTROJYOTISH PRO** project into a comprehensive, professional, production-oriented astrology platform.
+
+This is ONE complete implementation assignment.
+
+Do not divide the deliverable into multiple prompts, separate module projects, staged releases or partial prototypes. You may internally organize implementation work as technically necessary, but execute the complete specification within the current task.
+
+**Most important:** Do not focus only on adding astrology features. Build the entire application experience, including the sidebar, navigation hierarchy, menu selection, submenus, page transitions, chart selection, calculation workflows, report workflows, settings, persistence and responsive behavior.
+
+Preserve existing working functionality. Extend and correct the current project rather than unnecessarily rebuilding it.
+
+---
+
+# 1. EXISTING PROJECT AUDIT AND PRESERVATION
+
+Inspect the complete existing project:
+
+- Source code and folder structure.
+- Current routes.
+- Sidebar and navigation components.
+- Dashboard.
+- Existing astrology modules.
+- Calculation engines.
+- Database schema.
+- Backend services.
+- API integrations.
+- Report generation.
+- Chart visualization.
+- Existing 20 divisional chart options.
+- Existing 10 ayanamsha options.
+- Existing settings.
+- Authentication.
+- User profiles.
+- Responsive layouts.
+
+Identify missing, incomplete, duplicated, broken and disconnected functionality.
+
+Implement all missing requirements and correct existing defects.
+
+Do not remove existing features simply because a new architecture is being introduced.
+
+Do not replace genuine calculations with mock values.
+
+Do not create decorative buttons that do nothing.
+
+Do not create placeholder pages to represent unfinished modules.
+
+---
+
+# 2. COMPLETE APPLICATION NAVIGATION AND SIDEBAR ARCHITECTURE
+
+This is a core requirement, not a decorative UI element.
+
+Build a complete, professional, hierarchical sidebar that controls the entire ASTROJYOTISH PRO application.
+
+The sidebar must be logically organized, easy to navigate and capable of accommodating all current and future astrology modules.
+
+## 2.1 Sidebar layout
+
+Implement:
+
+- Application logo and ASTROJYOTISH PRO branding.
+- Dashboard shortcut.
+- Main navigation groups.
+- Expandable and collapsible menu sections.
+- Nested submenu items.
+- Active menu highlighting.
+- Active submenu highlighting.
+- Selected module indication.
+- Icons for every major navigation category.
+- Tooltips in collapsed mode.
+- Searchable navigation.
+- Expand all / collapse all behavior where useful.
+- Sidebar collapse and expand control.
+- Persistent sidebar preference.
+- Scrollable navigation area.
+- User profile section.
+- Settings shortcut.
+- Help and documentation shortcut.
+
+The sidebar must remain usable on desktop, tablet and mobile.
+
+On mobile, use a proper navigation drawer with overlay and close behavior.
+
+## 2.2 Sidebar hierarchy and complete menu structure
+
+Implement the following navigation structure.
+
+### A. Dashboard
+
+- Overview.
+- Recent Charts.
+- Recent Reports.
+- Saved Profiles.
+- Recent AI Conversations.
+- Upcoming Transits.
+- Daily Panchanga.
+- Quick Actions.
+- Notifications.
+- Favorites.
+
+### B. Birth Profiles
+
+- All Profiles.
+- Add New Profile.
+- Edit Profile.
+- Birth Details.
+- Birth Location.
+- Saved Horoscopes.
+- Profile Comparison.
+- Import Profile.
+- Export Profile.
+- Archived Profiles.
+
+### C. Horoscope
+
+- Complete Birth Chart.
+- Rashi Chart — D1.
+- Bhava Chalit.
+- Planetary Positions.
+- House Analysis.
+- Ascendant Analysis.
+- Moon Chart.
+- Sun Chart.
+- North Indian Chart.
+- South Indian Chart.
+- Planetary Aspects.
+- Planetary Dignity.
+- Planetary Relationships.
+- Dispositor Analysis.
+
+### D. Parashari Astrology
+
+- Lagna Analysis.
+- Twelve Houses.
+- House Lords.
+- Planetary Analysis.
+- Graha Drishti.
+- Rashi Drishti.
+- Yogakaraka.
+- Functional Benefics and Malefics.
+- Planetary Strength.
+- Planetary Avasthas.
+- Combustion.
+- Retrogression.
+- Planetary War.
+- Vargottama.
+- Special Planetary Conditions.
+- Integrated Interpretation.
+
+### E. Divisional Charts
+
+- Varga Overview.
+- D1 Rashi.
+- D2 Hora.
+- D3 Drekkana.
+- D4 Chaturthamsha.
+- D5 Panchamsha.
+- D6 Shashtamsha.
+- D7 Saptamsha.
+- D8 Ashtamsha.
+- D9 Navamsha.
+- D10 Dashamsha.
+- D11 Rudramsha.
+- D12 Dwadashamsha.
+- D16 Shodashamsha.
+- D20 Vimshamsha.
+- D24 Chaturvimshamsha.
+- D27 Saptavimshamsha.
+- D30 Trimshamsha.
+- D40 Khavedamsha.
+- D45 Akshavedamsha.
+- D60 Shashtiamsha.
+- Varga Comparison.
+- Shodasha Varga.
+- Vargottama Analysis.
+- Varga Strength.
+- Varga Interpretations.
+
+Preserve all 20 existing divisional chart options and their calculation conventions.
+
+### F. Planetary Strength
+
+- Shadbala.
+- Sthana Bala.
+- Dig Bala.
+- Kala Bala.
+- Cheshta Bala.
+- Naisargika Bala.
+- Drik Bala.
+- Bhava Bala.
+- Vimsopaka Bala.
+- Ishta Phala.
+- Kashta Phala.
+- Planetary Avasthas.
+- Strength Comparison.
+- Strength Interpretation.
+
+### G. Ashtakavarga
+
+- Ashtakavarga Overview.
+- Bhinna Ashtakavarga.
+- Sarva Ashtakavarga.
+- Sun Ashtakavarga.
+- Moon Ashtakavarga.
+- Mars Ashtakavarga.
+- Mercury Ashtakavarga.
+- Jupiter Ashtakavarga.
+- Venus Ashtakavarga.
+- Saturn Ashtakavarga.
+- Trikona Shodhana.
+- Ekadhipatya Shodhana.
+- Rashi Pinda.
+- Graha Pinda.
+- Sodhya Pinda.
+- Transit Ashtakavarga.
+
+### H. Yogas and Doshas
+
+- Yoga Overview.
+- Raja Yoga.
+- Dhana Yoga.
+- Pancha Mahapurusha Yoga.
+- Gaja Kesari Yoga.
+- Budha-Aditya Yoga.
+- Chandra-Mangala Yoga.
+- Neecha Bhanga Raja Yoga.
+- Viparita Raja Yoga.
+- Dharma-Karmadhipati Yoga.
+- Lakshmi Yoga.
+- Saraswati Yoga.
+- Parivartana Yoga.
+- Kemadruma.
+- Other Classical Yogas.
+- Manglik / Kuja Dosha.
+- Kala Sarpa Dosha.
+- Pitru Dosha.
+- Grahana Dosha.
+- Guru Chandal.
+- Other Traditional Doshas.
+- Cancellation and Exceptions.
+
+### I. Nakshatra
+
+- Birth Nakshatra.
+- 27 Nakshatras.
+- Nakshatra Pada.
+- Nakshatra Lord.
+- Nakshatra Deity.
+- Nakshatra Compatibility.
+- Tara Bala.
+- Chandra Bala.
+- Nakshatra Transit.
+- Nakshatra Dasha.
+- Nakshatra-based Analysis.
+
+### J. Dasha Systems
+
+- Dasha Overview.
+- Vimshottari Dasha.
+- Mahadasha.
+- Antardasha.
+- Pratyantardasha.
+- Sookshma Dasha.
+- Prana Dasha.
+- Yogini Dasha.
+- Ashtottari Dasha.
+- Chara Dasha.
+- Narayana Dasha.
+- Kalachakra Dasha.
+- Dasha Timeline.
+- Current Dasha.
+- Upcoming Dasha.
+- Dasha Comparison.
+- Dasha and Transit Correlation.
+
+### K. KP Astrology
+
+- KP Overview.
+- KP Birth Chart.
+- KP Cusps.
+- Placidus Houses.
+- Planetary Significators.
+- Cusp Significators.
+- Star Lords.
+- Sub Lords.
+- Sub-Sub Lords.
+- Ruling Planets.
+- KP Planetary Table.
+- KP House Analysis.
+- KP Event Analysis.
+- KP Timing.
+- Marriage.
+- Career.
+- Employment.
+- Business.
+- Property.
+- Education.
+- Children.
+- Foreign Settlement.
+- KP Horary 1–249.
+- KP Old / New Conventions.
+
+### L. Jaimini Astrology
+
+- Jaimini Overview.
+- Chara Karakas.
+- Seven Karakas.
+- Eight Karakas.
+- Atmakaraka.
+- Amatyakaraka.
+- Darakaraka.
+- Karakamsha.
+- Swamsha.
+- Arudha Lagna.
+- A1–A12.
+- Upapada Lagna.
+- Rashi Drishti.
+- Argala.
+- Jaimini Yogas.
+- Chara Dasha.
+- Narayana Dasha.
+- Jaimini Interpretation.
+
+### M. Panchanga and Hindu Calendar
+
+- Today's Panchanga.
+- Date-wise Panchanga.
+- Tithi.
+- Vara.
+- Nakshatra.
+- Yoga.
+- Karana.
+- Sunrise and Sunset.
+- Moonrise and Moonset.
+- Paksha.
+- Masa.
+- Samvatsara.
+- Ayana.
+- Ritu.
+- Amanta Calendar.
+- Purnimanta Calendar.
+- Hindu Festivals.
+- Ekadashi.
+- Pradosham.
+- Purnima.
+- Amavasya.
+- Sankranti.
+- Rahu Kalam.
+- Yamagandam.
+- Gulika Kalam.
+- Abhijit Muhurta.
+- Choghadiya.
+- Hora.
+- Brahma Muhurta.
+
+### N. Gochara and Predictions
+
+- Current Transits.
+- Planetary Transit Calendar.
+- Transit by Sign.
+- Transit by Nakshatra.
+- Saturn Transit.
+- Jupiter Transit.
+- Rahu-Ketu Transit.
+- Sade Sati.
+- Ashtama Shani.
+- Dhaiya.
+- Transit House Analysis.
+- Transit Ashtakavarga.
+- Dasha and Transit Correlation.
+- Monthly Predictions.
+- Annual Predictions.
+
+### O. Varshaphala
+
+- Solar Return Chart.
+- Varsha Lagna.
+- Muntha.
+- Muntha Lord.
+- Tajika Aspects.
+- Sahams.
+- Year Lord.
+- Annual Dasha.
+- Annual Planetary Analysis.
+- Yearly Report.
+
+### P. Birth-Time Rectification
+
+- Rectification Workspace.
+- Life Events.
+- Candidate Birth Times.
+- Ascendant Sensitivity.
+- House Cusp Comparison.
+- Divisional Chart Comparison.
+- Dasha Event Correlation.
+- KP Rectification.
+- Jaimini Rectification.
+- Rectification Results.
+- Confidence Assessment.
+
+### Q. Marriage and Compatibility
+
+- Ashtakoota.
+- 36-Point Matching.
+- Dashakoota.
+- Nadi.
+- Gana.
+- Yoni.
+- Bhakoot.
+- Graha Maitri.
+- Tara.
+- Varna.
+- Vashya.
+- Kuja Dosha.
+- D1 Compatibility.
+- D9 Compatibility.
+- Seventh House.
+- Upapada.
+- Dasha Compatibility.
+- Detailed Marriage Report.
+
+### R. Muhurta
+
+- Muhurta Overview.
+- Marriage Muhurta.
+- Engagement Muhurta.
+- Griha Pravesh.
+- Business Opening.
+- Vehicle Purchase.
+- Travel.
+- Education.
+- Naming Ceremony.
+- Traditional Events.
+- Date Range Search.
+- Location-based Muhurta.
+- Auspicious Time Comparison.
+
+### S. Prashna
+
+- Prashna Workspace.
+- Question Details.
+- Prashna Chart.
+- KP Horary.
+- Traditional Prashna.
+- House Analysis.
+- Planetary Significators.
+- Question Interpretation.
+- Prashna Report.
+
+### T. Numerology
+
+- Numerology Overview.
+- Vedic Numerology.
+- Chaldean Numerology.
+- Pythagorean Numerology.
+- Lo Shu Grid.
+- Birth Number.
+- Destiny Number.
+- Life Path.
+- Name Analysis.
+- Business Name.
+- Mobile Number.
+- Vehicle Number.
+- House Number.
+- Personal Year.
+- Compatibility.
+- Numerology Reports.
+
+### U. Western Astrology
+
+- Western Natal Chart.
+- Tropical Zodiac.
+- Planetary Positions.
+- Western Houses.
+- Planetary Aspects.
+- Birth Wheel.
+- Synastry.
+- Composite Chart.
+- Solar Return.
+- Transit Analysis.
+
+### V. Remedies and Traditional Guidance
+
+- Gemstone Guidance.
+- Rudraksha.
+- Mantra.
+- Stotra.
+- Puja.
+- Vrata.
+- Daan.
+- Temple Traditions.
+- Vastu.
+- Lal Kitab.
+- Traditional Remedial References.
+
+Clearly distinguish traditional beliefs and recommendations from verified calculations.
+
+### W. AI Astrologer
+
+- AI Chat.
+- New Conversation.
+- Saved Conversations.
+- Chart-based Questions.
+- Dasha Questions.
+- Career Analysis.
+- Marriage Analysis.
+- Finance Analysis.
+- Transit Questions.
+- KP Questions.
+- Jaimini Questions.
+- Numerology Questions.
+- Sanatana Dharma Questions.
+- Generate Report.
+- Conversation History.
+
+### X. Professional Reports
+
+- Report Dashboard.
+- Complete Horoscope.
+- Parashari Report.
+- KP Report.
+- Jaimini Report.
+- Divisional Chart Report.
+- Shadbala Report.
+- Ashtakavarga Report.
+- Yoga and Dosha Report.
+- Dasha Report.
+- Transit Report.
+- Annual Report.
+- Career Report.
+- Marriage Report.
+- Compatibility Report.
+- Wealth Report.
+- Business Report.
+- Education Report.
+- Property Report.
+- Foreign Settlement Report.
+- Spirituality Report.
+- Panchanga Report.
+- Muhurta Report.
+- Prashna Report.
+- Rectification Report.
+- Numerology Report.
+- Custom Report.
+- Saved Reports.
+- Report Templates.
+
+### Y. Knowledge Library
+
+- Jyotisha Encyclopedia.
+- Classical Astrology.
+- Brihat Parashara Hora Shastra.
+- Brihat Jataka.
+- Phaladeepika.
+- Saravali.
+- Jataka Parijata.
+- Jaimini Sutras.
+- KP Literature.
+- Nakshatra Knowledge.
+- Dasha Knowledge.
+- Yoga and Dosha Library.
+- Vedic Knowledge.
+- Vedas.
+- Upanishads.
+- Vedangas.
+- Itihasas.
+- Puranas.
+- Bhagavad Gita.
+- Brahma Sutras.
+- Shad Darshanas.
+- Agamas.
+- Tantras.
+- Smritis.
+- Dharma Shastra.
+- Vedanta.
+- Samkhya.
+- Yoga.
+- Shaiva.
+- Vaishnava.
+- Shakta.
+- Mantra Shastra.
+- Temple Traditions.
+- Sanatana Dharma Topics.
+
+### Z. Administration and Settings
+
+- User Profile.
+- Account Settings.
+- Application Preferences.
+- Language.
+- Theme.
+- Chart Style.
+- Ayanamsha.
+- House System.
+- Calculation Settings.
+- AI Configuration.
+- API Settings.
+- Subscription.
+- Usage.
+- Notifications.
+- Data Management.
+- Import and Export.
+- Admin Dashboard.
+- User Management.
+- Roles and Permissions.
+- Report Management.
+- Knowledge Management.
+- Audit Logs.
+- System Health.
+- Help and Support.
+
+---
+
+# 3. SIDEBAR SELECTION FLOW AND INTERACTION LOGIC
+
+Implement the following behavior for every sidebar item.
+
+## 3.1 Main menu selection
+
+When the user clicks a main menu category:
+
+1. Set the clicked category as active.
+2. Expand its child menu if it has children.
+3. Display the appropriate default overview page if the category has an overview.
+4. Preserve the active birth profile.
+5. Preserve relevant chart calculation settings.
+6. Update the page title.
+7. Update breadcrumbs.
+8. Update the route.
+9. Update active navigation highlighting.
+10. Keep the application state synchronized with the URL.
+
+Do not navigate to an unrelated page when the user only intends to expand a menu.
+
+## 3.2 Submenu selection
+
+When a user selects a submenu item:
+
+1. Highlight the selected submenu.
+2. Highlight its parent category.
+3. Navigate to the exact corresponding page.
+4. Load the selected module.
+5. Retain the selected birth profile.
+6. Retain the chart configuration.
+7. Display the correct module-specific interface.
+8. Update breadcrumbs and page heading.
+9. Preserve relevant filters and selections.
+10. Allow direct URL access and browser refresh.
+
+Example:
+
+<escape>Dashboard → Birth Profiles → Select Profile → Horoscope → Divisional Charts → D9 Navamsha → Planetary Analysis → Generate Report</escape>
+
+The application must preserve the selected profile and chart throughout this journey.
+
+## 3.3 Expand and collapse behavior
+
+- Main categories must expand and collapse.
+- Nested sections must support independent selection.
+- Use clear chevron indicators.
+- Avoid accidental navigation when clicking an expand icon.
+- Provide a consistent active state.
+- Automatically expand the parent category of the currently selected route.
+- Restore the correct expanded menu after page refresh.
+- Preserve the user's sidebar collapsed or expanded preference.
+- Avoid unnecessary closing of menus while moving between related modules.
+
+## 3.4 Navigation search
+
+Provide a navigation search field.
+
+Users must be able to search for:
+
+- Module names.
+- Astrology terms.
+- Reports.
+- Charts.
+- Calculations.
+- Settings.
+
+Search results must identify the parent menu and allow direct navigation.
+
+Example: searching for "Shadbala" must locate the Shadbala page under Planetary Strength.
+
+Searching for "Navamsha" must locate D9 under Divisional Charts.
+
+Searching for "KP Sub Lord" must locate the relevant KP module.
+
+## 3.5 Context-aware navigation
+
+Navigation must understand the current working context.
+
+Examples:
+
+- If a birth profile is selected, all relevant astrology modules must use that profile.
+- If a report is being edited, moving to another section must not silently discard report changes.
+- If a chart is open, related chart analysis pages must use the same chart.
+- If the user changes profiles, all dependent chart results must refresh.
+- If calculation settings change, affected calculations must be recalculated.
+- If a profile has no birth time, disable or qualify features that require an accurate birth time.
+
+## 3.6 Breadcrumbs and page navigation
+
+Display meaningful breadcrumbs for nested navigation.
+
+Example:
+
+`Astrology / Divisional Charts / D9 Navamsha`
+
+Provide:
+
+- Page title.
+- Page description.
+- Active profile indicator.
+- Current chart indicator where applicable.
+- Contextual action buttons.
+- Back navigation.
+- Browser history support.
+
+## 3.7 Sidebar responsive behavior
+
+Desktop:
+- Fixed or sticky sidebar.
+- Expandable width.
+- Scrollable menu.
+- Collapsed icon mode.
+
+Tablet:
+- Compact sidebar.
+- Expandable navigation.
+
+Mobile:
+- Drawer navigation.
+- Overlay.
+- Close on selection.
+- Proper touch targets.
+- No horizontal overflow.
+
+## 3.8 Sidebar consistency requirements
+
+Every listed menu item must either:
+
+- Navigate to a completed working module, or
+- Be deliberately unavailable with an accurate disabled state and explanation when a genuine dependency prevents it.
+
+Never create menu entries that lead to blank pages.
+
+Do not duplicate the same module under unrelated categories unless a deliberate contextual shortcut is needed.
+
+---
+
+# 4. BIRTH PROFILE SELECTION AND WORKSPACE FLOW
+
+Create a unified profile-selection workflow.
+
+The main application must support multiple birth profiles.
+
+## Profile selection journey
+
+`Dashboard → Birth Profiles → Add New Profile → Enter Birth Details → Save → Select Profile → Open Horoscope`
+
+Birth profile fields:
+
+- Full name.
+- Gender, optional.
+- Date of birth.
+- Exact birth time.
+- Birthplace.
+- Latitude.
+- Longitude.
+- Time zone.
+- Birth time accuracy.
+- Notes.
+- Profile image, optional.
+
+Provide:
+
+- Search profiles.
+- Filter profiles.
+- Sort profiles.
+- Edit.
+- Duplicate.
+- Archive.
+- Delete with confirmation.
+- Import.
+- Export.
+- Set default profile.
+
+After selecting a profile, show a persistent profile selector in the application header.
+
+All modules must use the active profile unless the user explicitly selects another.
+
+Provide a clear profile-switching action.
+
+When switching profiles, refresh dependent calculations and never mix results between profiles.
+
+---
+
+# 5. COMPLETE ASTRONOMICAL CALCULATION ENGINE
+
+Implement Swiss Ephemeris or a legally appropriate, validated equivalent.
+
+Support:
+
+- Sun.
+- Moon.
+- Mars.
+- Mercury.
+- Jupiter.
+- Venus.
+- Saturn.
+- Rahu.
+- Ketu.
+- Uranus.
+- Neptune.
+- Pluto.
+- True and mean nodes.
+- Sidereal and tropical systems.
+- Historical time zones.
+- Daylight-saving transitions.
+- Ayanamsha selection.
+- House systems.
+- Planetary longitude.
+- Latitude.
+- Declination.
+- Speed.
+- Retrogression.
+- Stationary motion.
+- Sign.
+- Nakshatra.
+- Pada.
+- Planetary aspects.
+
+Preserve all existing 10 ayanamsha options.
+
+Support Lahiri, Raman, Krishnamurti, KP New where supported, Yukteshwar, Fagan-Bradley, True Chitra Paksha and other existing conventions.
+
+Support Whole Sign, Equal, Placidus and Sripati where correctly implemented.
+
+Use one canonical RawChart model as the source of truth for every astrology module.
+
+Every chart must retain its calculation configuration.
+
+---
+
+# 6. COMPLETE PARASHARI ASTROLOGY
+
+Implement:
+
+- Lagna.
+- Rashi.
+- Bhava.
+- Graha.
+- Graha Drishti.
+- Rashi Drishti.
+- House lordship.
+- Functional benefics and malefics.
+- Yogakaraka.
+- Maraka.
+- Badhaka.
+- Kendra.
+- Trikona.
+- Dusthana.
+- Upachaya.
+- Planetary dignity.
+- Exaltation.
+- Debilitation.
+- Own sign.
+- Moolatrikona.
+- Friendship and enmity.
+- Combustion.
+- Retrogression.
+- Planetary war.
+- Dispositor.
+- Conjunction.
+- Aspects.
+- Avasthas.
+- Bhava Chalit.
+- Argala.
+- Vargottama.
+- Pushkara Navamsha.
+- Pushkara Bhaga.
+- Gandanta.
+- Mrityu Bhaga.
+- Planetary sandhi.
+
+Provide detailed interpretations and technical tables.
+
+---
+
+# 7. COMPLETE DIVISIONAL CHARTS
+
+Preserve all 20 existing Varga options:
+
+D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D16, D20, D24, D27, D30, D40, D45 and D60.
+
+Implement the correct traditional calculation method for every chart.
+
+Do not apply a generic multiplication formula to all Vargas.
+
+Provide:
+
+- Chart visualization.
+- Planetary positions.
+- Ascendant.
+- House analysis.
+- Sign dignity.
+- Vargottama.
+- Relevant yogas.
+- Strength.
+- Interpretations.
+- Cross-Varga comparison.
+
+Provide North Indian and South Indian chart styles.
+
+---
+
+# 8. SHADBALA, BHAVA BALA AND ASHTAKAVARGA
+
+Implement complete Shadbala:
+
+- Sthana Bala.
+- Uchcha Bala.
+- Saptavargaja Bala.
+- Ojhayugma Bala.
+- Kendradi Bala.
+- Drekkana Bala.
+- Dig Bala.
+- Kala Bala.
+- Nathonnatha Bala.
+- Paksha Bala.
+- Tribhaga Bala.
+- Varsha Bala.
+- Masa Bala.
+- Vara Bala.
+- Hora Bala.
+- Ayana Bala.
+- Cheshta Bala.
+- Naisargika Bala.
+- Drik Bala.
+- Ishta Phala.
+- Kashta Phala.
+
+Implement Bhava Bala and Vimsopaka Bala.
+
+Implement Bhinna Ashtakavarga, Sarva Ashtakavarga, Trikona Shodhana, Ekadhipatya Shodhana, Rashi Pinda, Graha Pinda and Sodhya Pinda.
+
+Display actual values, methodology and interpretation.
+
+---
+
+# 9. YOGAS, DOSHAS AND NAKSHATRAS
+
+Implement classical yoga and dosha detection with formation rules, cancellation rules, exceptions and supporting factors.
+
+Include Raja Yoga, Dhana Yoga, Pancha Mahapurusha, Gaja Kesari, Budha-Aditya, Chandra-Mangala, Neecha Bhanga, Viparita Raja Yoga, Dharma-Karmadhipati, Lakshmi Yoga, Saraswati Yoga, Parivartana Yoga, Kemadruma and other documented combinations.
+
+Include Manglik, Kala Sarpa, Pitru, Grahana, Guru Chandal and other supported traditional conditions.
+
+Support all 27 Nakshatras and four Padas with deity, symbol, lord, Gana, Yoni, Nadi, Varna, element, nature, Navamsha mapping, Tara Bala and compatibility.
+
+Use transparent rule-based calculations.
+
+---
+
+# 10. COMPLETE DASHA ENGINE
+
+Implement:
+
+- Vimshottari.
+- Yogini.
+- Ashtottari.
+- Chara.
+- Narayana.
+- Kalachakra.
+- Other supported traditional systems.
+
+Provide Mahadasha, Antardasha, Pratyantardasha, Sookshma and Prana where applicable.
+
+Show exact dates, balance, current periods, upcoming periods and historical timelines.
+
+Respect the eligibility conditions and conventions of each system.
+
+---
+
+# 11. KP ASTROLOGY
+
+Implement:
+
+- KP Old and supported KP New.
+- Placidus cusps.
+- Star lord.
+- Sub-lord.
+- Sub-sub-lord.
+- Significators.
+- Cusp significators.
+- Ruling planets.
+- House linkage.
+- Retrograde analysis.
+- Event analysis.
+- Timing.
+- Horary 1–249.
+
+Provide dedicated analysis for marriage, career, employment, business, property, education, children and foreign settlement.
+
+---
+
+# 12. JAIMINI ASTROLOGY
+
+Implement:
+
+- Seven and eight Chara Karakas.
+- Atmakaraka.
+- Amatyakaraka.
+- Bhratrukaraka.
+- Matrukaraka.
+- Putrakaraka.
+- Gnatikaraka.
+- Darakaraka.
+- Karakamsha.
+- Swamsha.
+- Arudha Lagna.
+- A1–A12.
+- Upapada Lagna.
+- Rashi Drishti.
+- Argala.
+- Jaimini Yogas.
+- Chara Dasha.
+- Narayana Dasha.
+
+---
+
+# 13. PANCHANGA, HINDU CALENDAR AND MUHURTA
+
+Calculate Tithi, Vara, Nakshatra, Yoga and Karana.
+
+Also provide sunrise, sunset, moonrise, moonset, Paksha, Masa, Samvatsara, Ayana, Ritu, Rahu Kalam, Yamagandam, Gulika Kalam, Dur Muhurta, Varjyam, Abhijit Muhurta, Choghadiya, Hora and Brahma Muhurta.
+
+Support regional calendar conventions and relevant festivals.
+
+Implement event-specific Muhurta for marriage, engagement, Griha Pravesh, business opening, vehicle purchase, travel and traditional ceremonies.
+
+---
+
+# 14. GOCHAR, VARSHAPHALA AND RECTIFICATION
+
+Implement planetary transits, sign changes, Nakshatra transits, retrogression, Sade Sati, Ashtama Shani, Dhaiya and Dasha-transit correlation.
+
+Implement Varshaphala with Solar Return, Varsha Lagna, Muntha, Muntha Lord, Tajika aspects, Sahams and Year Lord.
+
+Implement birth-time rectification using life events, Ascendant sensitivity, Vargas, Dasha correlation, KP and Jaimini indicators.
+
+Show confidence and uncertainty honestly.
+
+---
+
+# 15. MATCHMAKING, PRASHNA AND NUMEROLOGY
+
+Implement Ashtakoota 36-point matching, Dashakoota, Kuja Dosha, D1/D9, seventh house, Upapada and Dasha compatibility.
+
+Implement traditional Prashna and KP Horary as distinct methodologies.
+
+Implement Vedic, Chaldean, Pythagorean and Lo Shu numerology, including birth, destiny, name, business, mobile, vehicle and house number analysis.
+
+Keep calculation conventions separate.
+
+---
+
+# 16. WESTERN ASTROLOGY
+
+Implement a separate tropical astrology subsystem.
+
+Include natal charts, planetary positions, aspects, houses, birth wheel, synastry, composite charts, solar return and transits.
+
+Do not mix tropical and sidereal calculations without explicitly identifying the selected system.
+
+---
+
+# 17. REMEDIES AND TRADITIONAL GUIDANCE
+
+Provide gemstone guidance, Rudraksha, mantra, stotra, puja, vrata, daan, temple traditions, Vastu and Lal Kitab.
+
+Clearly identify the traditional source or methodology where available.
+
+Do not present traditional beliefs as scientifically established facts.
+
+---
+
+# 18. GEMINI AI ASTROLOGER
+
+Integrate Gemini through secure server-side APIs.
+
+Implement:
+
+- Configurable model.
+- Secure API keys.
+- Usage monitoring.
+- Token tracking.
+- Rate limiting.
+- Persistent chat.
+- Saved conversations.
+- Chart-aware context.
+- Profile selection.
+- Telugu, English and Hindi.
+- Streaming where supported.
+- Follow-up questions.
+- Copy and export.
+- Report generation from chat.
+
+The AI must use actual application calculations.
+
+It must not fabricate planetary positions, Dasha dates, KP significators, Varga placements or classical references.
+
+---
+
+# 19. PROFESSIONAL REPORT GENERATION
+
+Create an advanced report engine with:
+
+- Complete Horoscope.
+- Parashari Report.
+- KP Report.
+- Jaimini Report.
+- Divisional Chart Report.
+- Shadbala Report.
+- Ashtakavarga Report.
+- Yoga and Dosha Report.
+- Dasha Report.
+- Transit Report.
+- Annual Report.
+- Career Report.
+- Marriage Report.
+- Compatibility Report.
+- Wealth Report.
+- Business Report.
+- Education Report.
+- Property Report.
+- Foreign Settlement Report.
+- Spirituality Report.
+- Panchanga Report.
+- Muhurta Report.
+- Prashna Report.
+- Rectification Report.
+- Numerology Report.
+- Custom Report.
+
+Provide Quick Analysis, Detailed Report and Professional Research Report.
+
+Include relevant calculations, methodology, evidence, interpretations, contradictions and uncertainty.
+
+Support PDF generation with A4 formatting, Telugu Unicode, tables, chart diagrams, page numbering, headers, footers, bookmarks and table of contents.
+
+Provide report preview, editing, section regeneration, versioning, saving, duplication, export and sharing.
+
+---
+
+# 20. JYOTISHA AND SANATANA DHARMA KNOWLEDGE LIBRARY
+
+Create a searchable knowledge platform covering:
+
+- Vedas.
+- Upanishads.
+- Vedangas.
+- Itihasas.
+- Puranas.
+- Bhagavad Gita.
+- Brahma Sutras.
+- Shad Darshanas.
+- Agamas.
+- Tantras.
+- Smritis.
+- Dharma Shastra.
+- Vedanta.
+- Samkhya.
+- Yoga.
+- Shaiva.
+- Vaishnava.
+- Shakta.
+- Mantra Shastra.
+- Temple traditions.
+- Jyotisha classics.
+- Lesser-known Sanatana Dharma subjects.
+
+Provide categories, search, tags, related articles, references, bookmarks and multilingual content.
+
+Never invent textual quotations or references.
+
+---
+
+# 21. APPLICATION WORKSPACE AND PAGE DESIGN
+
+Every sidebar selection must open a dedicated, functional workspace.
+
+Use a consistent page structure:
+
+1. Breadcrumb navigation.
+2. Page title.
+3. Page description.
+4. Active birth profile.
+5. Chart configuration where relevant.
+6. Main calculation or content workspace.
+7. Supporting tables and visualizations.
+8. Interpretation panel.
+9. Contextual actions.
+10. Save, export and report actions.
+
+Use consistent components across modules.
+
+Implement:
+
+- Responsive layouts.
+- Dark and light themes.
+- Professional typography.
+- Telugu and English support.
+- Chart diagrams.
+- Interactive tables.
+- Tabs.
+- Filters.
+- Search.
+- Tooltips.
+- Modals.
+- Dropdowns.
+- Notifications.
+- Loading states.
+- Empty states.
+- Error states.
+
+All controls must work.
+
+---
+
+# 22. APPLICATION HEADER AND GLOBAL CONTROLS
+
+Provide:
+
+- Application logo.
+- Sidebar toggle.
+- Global search.
+- Active birth-profile selector.
+- Current chart indicator.
+- Quick actions.
+- Notifications.
+- Theme toggle.
+- Language selector.
+- User profile menu.
+- Help shortcut.
+
+Global controls must retain their selected values across relevant pages.
+
+---
+
+# 23. DATABASE AND BACKEND
+
+Use the existing backend where possible.
+
+Implement and connect:
+
+- Authentication.
+- User profiles.
+- Birth profiles.
+- Chart records.
+- Calculation settings.
+- Reports.
+- Report versions.
+- AI conversations.
+- Knowledge articles.
+- Bookmarks.
+- Preferences.
+- Subscriptions.
+- Usage records.
+- Audit logs.
+
+Provide validated APIs, database migrations, proper indexes, authorization, error handling and persistence.
+
+Never delete existing data during upgrades.
+
+---
+
+# 24. ADMINISTRATION AND SUBSCRIPTIONS
+
+Provide:
+
+- Admin dashboard.
+- User management.
+- Roles and permissions.
+- Subscription plans.
+- Usage monitoring.
+- Gemini configuration.
+- API settings.
+- Calculation configuration.
+- Report template management.
+- Knowledge management.
+- Localization management.
+- Audit logs.
+- System health.
+
+Implement configurable feature access and subscription limits.
+
+---
+
+# 25. SECURITY, PERFORMANCE AND CODE QUALITY
+
+Implement:
+
+- Strong TypeScript typing.
+- Modular services.
+- Reusable components.
+- Secure server-side secrets.
+- Input validation.
+- API authorization.
+- Rate limiting.
+- Error boundaries.
+- Logging.
+- Database consistency.
+- Performance optimization.
+- Lazy loading.
+- Accessibility.
+- Responsive behavior.
+- Backup compatibility.
+
+Respect ephemeris licensing and deployment requirements.
+
+---
+
+# 26. COMPLETE TESTING AND VALIDATION
+
+Test:
+
+- Planetary positions.
+- Ascendant.
+- Ayanamsha.
+- House cusps.
+- Nakshatra and Pada.
+- All 20 Vargas.
+- Dasha.
+- Shadbala.
+- Ashtakavarga.
+- Yogas and Doshas.
+- KP subdivisions.
+- Jaimini Karakas.
+- Panchanga.
+- Transit dates.
+- Numerology.
+- PDF generation.
+- Database persistence.
+- Gemini integration.
+- Sidebar navigation.
+- Nested menu selection.
+- Active states.
+- Breadcrumbs.
+- Profile switching.
+- Browser refresh.
+- Direct route access.
+- Mobile drawer behavior.
+- Report workflows.
+
+Test edge cases including historical dates, midnight births, leap years, time-zone changes, high latitudes, sign boundaries, Nakshatra boundaries, missing birth times, invalid input and API failures.
+
+Run available tests and production build. Correct discovered errors.
+
+Never claim that unexecuted tests passed.
+
+---
+
+# 27. FINAL IMPLEMENTATION AND ACCEPTANCE CONTRACT
+
+The complete application must have:
+
+- A fully working sidebar.
+- Complete hierarchical navigation.
+- Correct menu selection and expansion.
+- Working nested routes.
+- Correct active states.
+- Persistent profile selection.
+- Context-aware chart navigation.
+- Complete astrology modules.
+- Real calculation engines.
+- Correct divisional charts.
+- Functional KP and Jaimini systems.
+- Complete Dasha systems.
+- Panchanga and transit calculations.
+- Numerology.
+- Western astrology.
+- Working Gemini AI integration.
+- Professional report generation.
+- Telugu PDF support.
+- Searchable knowledge library.
+- Functional administration.
+- Secure backend.
+- Persistent database.
+- Responsive design.
+- Tested application workflows.
+
+For each requirement, use an honest completion status:
+
+- COMPLETE AND VERIFIED.
+- IMPLEMENTED — NOT FULLY VERIFIED.
+- PARTIALLY IMPLEMENTED.
+- BLOCKED BY DEPENDENCY.
+- NOT IMPLEMENTED.
+
+Do not label a feature complete merely because its page exists.
+
+If a genuine external dependency prevents operation, implement everything else and identify the exact dependency and configuration required.
+
+---
+
+# FINAL EXECUTION COMMAND
+
+**IMPLEMENT THE ENTIRE ASTROJYOTISH PRO APPLICATION AS ONE UNIFIED PROJECT.**
+
+Do not give me a staged development roadmap.
+
+Do not create separate prompts for each module.
+
+Do not stop after creating the sidebar.
+
+Do not stop after creating the frontend.
+
+Do not stop after creating calculation pages.
+
+Do not leave navigation disconnected from actual functionality.
+
+Do not create placeholder modules.
+
+Do not remove existing working features.
+
+Build the complete sidebar and selection flow, all application pages, every astrology subsystem, calculation engines, database, backend, Gemini AI, report generation, knowledge library, settings, administration, security and testing.
+
+Every menu selection must lead to the correct functional workspace. Every workspace must use the correct active profile and calculation configuration. Every report must use real calculated data.
+
+**The final deliverable is one complete, connected, professional ASTROJYOTISH PRO application—not a collection of disconnected pages or a prototype.**
+
+Start inspecting and implementing the existing project immediately. Continue through all feasible requirements and provide an accurate completion report with any genuine external blockers clearly identified.

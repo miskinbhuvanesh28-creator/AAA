@@ -1,0 +1,1975 @@
+# ASTROJYOTISH PRO
+# ULTIMATE UNIVERSAL ASTROLOGY MASTER DEVELOPMENT PROMPT
+
+## Complete Vedic Astrology • Telugu Jyotisham • Parashari • KP • Jaimini • All Divisional Charts D1–D144 • Astronomy • Mathematical Calculations • Predictions • Professional Reports • AI Astrologer • Premium Clean UI/UX
+
+---
+
+# 1. MASTER ROLE AND OBJECTIVE
+
+Act as a world-class Vedic astrology researcher, traditional Jyotisha scholar, Telugu astrology expert, Sanskrit terminology specialist, Parashari astrologer, KP astrologer, Jaimini astrologer, astronomical calculation engineer, mathematical algorithm developer, AI architect, professional report designer and senior full-stack software engineer.
+
+Your task is to inspect, upgrade and complete my existing **ASTROJYOTISH PRO** application into a comprehensive, professional, production-grade universal astrology platform.
+
+The platform must combine the calculation depth of professional Parashari astrology software, the detailed chart presentation of established Jyotisha desktop applications, the compact analytical presentation of LifeSign Mini and a modern, premium, intuitive user experience.
+
+These products are functional references only. Develop an original application and interface. Do not copy proprietary source code, protected designs, branding or assets.
+
+## Primary objective
+
+Build one integrated platform supporting:
+
+- Complete Vedic astrology.
+- Complete Telugu Jyotisham.
+- Parashari astrology.
+- KP astrology.
+- Jaimini astrology.
+- Complete divisional chart calculations.
+- All major planetary and house calculations.
+- Advanced predictive astrology.
+- Panchanga.
+- Muhurta.
+- Prashna.
+- Birth-time rectification.
+- Varshaphala.
+- Marriage compatibility.
+- Numerology.
+- Western astrology.
+- Traditional remedies.
+- AI-powered astrology.
+- Professional English and Telugu reports.
+- Complete Jyotisha knowledge library.
+- Sanatana Dharma educational library.
+
+**Maximize functionality, calculation depth, analytical capability and report quality while maintaining a clean, organized, easy-to-use interface.**
+
+Do not compromise functionality for visual simplicity. Use progressive disclosure, contextual panels, tabs, expandable sections, searchable navigation and specialized report workspaces.
+
+Do not create disconnected demonstration modules. All modules must use consistent chart data and work together.
+
+---
+
+# 2. EXISTING PROJECT AUDIT AND IMPLEMENTATION
+
+Before modifying the application:
+
+1. Inspect the complete existing codebase.
+2. Identify the framework, database, backend, frontend, routes and components.
+3. Inspect all existing astrology calculations.
+4. Identify existing features and incomplete modules.
+5. Inspect current navigation and sidebar structure.
+6. Inspect existing report templates and PDF generation.
+7. Identify duplicate calculation logic.
+8. Identify inaccurate calculations and UI-only features.
+9. Preserve all working features.
+10. Preserve user profiles and existing data.
+11. Preserve existing calculation options and configurations.
+12. Improve the existing architecture rather than unnecessarily recreating the project.
+
+Implement the complete specification directly within the existing project.
+
+Do not respond with a development roadmap instead of implementation.
+
+Do not replace functional features with mockups.
+
+Do not claim that an unavailable dependency, calculation or integration works.
+
+If a genuine external dependency requires a license, API key or infrastructure, implement the correct integration architecture and identify the actual blocker.
+
+---
+
+# 3. COMPLETE ENGLISH AND TELUGU ASTROLOGY EXPERIENCE
+
+Implement complete bilingual functionality.
+
+## Supported languages
+
+- English.
+- Telugu (తెలుగు).
+- Hindi (हिन्दీ) as an optional additional language.
+
+English and Telugu must be fully supported across the entire application.
+
+## Telugu interface
+
+Provide professional Telugu translations for:
+
+- Navigation.
+- Dashboard.
+- Birth profiles.
+- Horoscope.
+- Rashi.
+- Bhava.
+- Grahas.
+- Nakshatras.
+- Vargas.
+- Shadbala.
+- Bhava Bala.
+- Ashtakavarga.
+- Yogas.
+- Doshas.
+- Dashas.
+- KP.
+- Jaimini.
+- Panchanga.
+- Muhurta.
+- Prashna.
+- Transits.
+- Compatibility.
+- Numerology.
+- AI astrologer.
+- Reports.
+- Settings.
+- Help.
+- Notifications.
+- Errors.
+
+## Telugu terminology
+
+Create a centralized astrology dictionary with:
+
+- English name.
+- Sanskrit name.
+- Telugu name.
+- Transliteration.
+- Definition.
+- Detailed explanation.
+- Relevant calculation.
+- Traditional references where verified.
+
+Use correct terminology such as:
+
+- లగ్నం.
+- రాశి.
+- భావం.
+- గ్రహం.
+- గ్రహాధిపతి.
+- భావాధిపతి.
+- నక్షత్రం.
+- పాదం.
+- దృష్టి.
+- యుతి.
+- గ్రహబలం.
+- భావబలం.
+- షడ్బలం.
+- అష్టకవర్గం.
+- దశా భుక్తులు.
+- అంతర్దశ.
+- గోచారం.
+- వర్గ చక్రాలు.
+- నవాంశం.
+- దశాంశం.
+- ముహూర్తం.
+- పంచాంగం.
+- ప్రశ్న జ్యోతిష్యం.
+- వివాహ పొంతన.
+- జనన సమయ శుద్ధి.
+
+Do not use literal machine translation for complex Jyotisha interpretations.
+
+Use natural, grammatically correct Telugu.
+
+## Typography
+
+Support appropriate Unicode Telugu fonts such as:
+
+- Noto Sans Telugu.
+- Noto Serif Telugu.
+- Suitable system Telugu fonts.
+
+Verify rendering in browser, mobile, tables, charts, PDF and print.
+
+---
+
+# 4. UNIVERSAL ASTRONOMICAL ENGINE
+
+Build one centralized astronomical calculation engine.
+
+Use Swiss Ephemeris or a legally appropriate, validated alternative.
+
+## Astronomical objects
+
+Support:
+
+- Sun.
+- Moon.
+- Mars.
+- Mercury.
+- Jupiter.
+- Venus.
+- Saturn.
+- Rahu.
+- Ketu.
+- Uranus.
+- Neptune.
+- Pluto.
+- True Node.
+- Mean Node.
+
+## Astronomical calculations
+
+Calculate:
+
+- Ecliptic longitude.
+- Ecliptic latitude.
+- Declination.
+- Right ascension where needed.
+- Geocentric positions.
+- Apparent positions where required.
+- Daily motion.
+- Planetary speed.
+- Retrograde motion.
+- Direct motion.
+- Stationary periods.
+- Sign ingress.
+- Nakshatra ingress.
+- Planetary conjunction.
+- Opposition.
+- Relevant aspects.
+- Sunrise.
+- Sunset.
+- Moonrise.
+- Moonset.
+- Julian Day.
+- Local sidereal time.
+- Relevant astronomical events.
+
+## Ayanamsha
+
+Support:
+
+- Lahiri / Chitrapaksha.
+- Raman.
+- Krishnamurti.
+- KP New where supported.
+- Yukteshwar.
+- Fagan-Bradley.
+- True Chitra Paksha.
+- Other supported traditional conventions.
+
+Preserve all existing project ayanamsha options, including the existing ten options.
+
+Do not remove existing settings merely to simplify the interface.
+
+## Zodiac systems
+
+- Sidereal.
+- Tropical.
+
+## House systems
+
+- Whole Sign.
+- Equal House.
+- Placidus.
+- Sripati.
+- Other supported systems with documented limitations.
+
+## Time and location accuracy
+
+Implement:
+
+- Historical time zones.
+- Historical UTC offsets.
+- Daylight-saving corrections.
+- Latitude.
+- Longitude.
+- Altitude where relevant.
+- Historical birthplace handling.
+- Correct UTC conversion.
+- Accurate sunrise and sunset.
+
+Do not assume that historical time zones always match current offsets.
+
+## Calculation provenance
+
+Store for every chart:
+
+- Birth date.
+- Birth time.
+- Birthplace.
+- Coordinates.
+- Time zone.
+- UTC timestamp.
+- Ayanamsha.
+- Zodiac system.
+- House system.
+- Ephemeris version.
+- Calculation engine version.
+- Relevant methodology settings.
+
+All dependent calculations must use the same canonical chart unless a different methodology explicitly requires another configuration.
+
+---
+
+# 5. COMPLETE RASHI SYSTEM — 12 SIGNS
+
+Implement all twelve Rashi signs.
+
+1. Mesha — మేషం.
+2. Vrishabha — వృషభం.
+3. Mithuna — మిథునం.
+4. Karka — కర్కాటకం.
+5. Simha — సింహం.
+6. Kanya — కన్య.
+7. Tula — తుల.
+8. Vrischika — వృశ్చికం.
+9. Dhanu — ధనుస్సు.
+10. Makara — మకరం.
+11. Kumbha — కుంభం.
+12. Meena — మీనం.
+
+For every sign calculate:
+
+- Sign lord.
+- Element.
+- Guna.
+- Modality.
+- Gender classification.
+- Direction.
+- Nature.
+- Sign characteristics.
+- Planetary relationships.
+- Exaltation relationships.
+- Debilitation relationships.
+- Own-sign relationships.
+- Moolatrikona.
+- Relevant aspects.
+- House relationships.
+- Divisional chart relationships.
+
+Support:
+
+- Chara.
+- Sthira.
+- Dwiswabhava.
+- Agni.
+- Prithvi.
+- Vayu.
+- Jala.
+- Sattva.
+- Rajas.
+- Tamas.
+
+Provide detailed Telugu and English explanations.
+
+---
+
+# 6. COMPLETE NAVA GRAHA SYSTEM
+
+Implement:
+
+| Graha | Sanskrit | Telugu |
+|---|---|---|
+| Sun | Surya | సూర్యుడు |
+| Moon | Chandra | చంద్రుడు |
+| Mars | Mangala | కుజుడు |
+| Mercury | Budha | బుధుడు |
+| Jupiter | Guru | గురుడు |
+| Venus | Shukra | శుక్రుడు |
+| Saturn | Shani | శని |
+| Rahu | Rahu | రాహువు |
+| Ketu | Ketu | కేతువు |
+
+For each Graha calculate:
+
+- Longitude.
+- Latitude.
+- Sign.
+- Degree.
+- House.
+- Nakshatra.
+- Pada.
+- Nakshatra lord.
+- Sub-lord.
+- Sub-sub-lord.
+- Dispositor.
+- House ownership.
+- Natural significations.
+- Functional significations.
+- Dignity.
+- Strength.
+- Aspects.
+- Conjunctions.
+- Retrograde.
+- Combustion.
+- Planetary war.
+- Avasthas.
+- Dasha relevance.
+- Divisional positions.
+- Relevant yogas.
+
+## Planetary behaviour engine
+
+Implement:
+
+- Exaltation.
+- Debilitation.
+- Moolatrikona.
+- Own sign.
+- Friendly sign.
+- Enemy sign.
+- Neutral sign.
+- Retrograde.
+- Combustion.
+- Stationary.
+- Planetary war.
+- Vargottama.
+- Pushkara Navamsha.
+- Pushkara Bhaga.
+- Gandanta.
+- Mrityu Bhaga.
+- Directional strength.
+- Temporal strength.
+- Planetary maturity.
+- Natural benefic and malefic classification.
+- Functional benefic and malefic classification.
+- Planetary relationships.
+
+Do not confuse natural beneficence with functional beneficence.
+
+---
+
+# 7. COMPLETE BHAVA SYSTEM — 12 HOUSES
+
+Implement all twelve houses and their detailed significations.
+
+1. Tanu.
+2. Dhana.
+3. Sahaja.
+4. Sukha.
+5. Putra.
+6. Ari.
+7. Yuvati.
+8. Randhra.
+9. Dharma.
+10. Karma.
+11. Labha.
+12. Vyaya.
+
+Calculate:
+
+- Bhava Madhya.
+- Bhava Sandhi.
+- House lord.
+- House occupants.
+- Planetary aspects.
+- House strength.
+- House categories.
+- House lord dignity.
+- House lord placement.
+- Natural Karakas.
+- Relevant yogas.
+- Dasha activation.
+- Varga confirmation.
+- Transit activation.
+
+Include:
+
+- Kendras.
+- Trikonas.
+- Dusthanas.
+- Upachayas.
+- Panapharas.
+- Apoklimas.
+- Maraka houses.
+- Badhaka houses.
+
+Provide complete Bhava Phalalu in Telugu and English.
+
+---
+
+# 8. COMPLETE NAKSHATRA SYSTEM
+
+Implement all 27 Nakshatras and 108 Padas.
+
+For each Nakshatra include:
+
+- English name.
+- Sanskrit name.
+- Telugu name.
+- Lord.
+- Deity.
+- Symbol.
+- Gana.
+- Yoni.
+- Nadi.
+- Varna.
+- Element.
+- Nature.
+- Four Padas.
+- Navamsha mapping.
+- Dasha lord.
+- Compatibility attributes.
+- Traditional interpretations.
+
+Implement:
+
+- Janma Nakshatra.
+- Janma Pada.
+- Tara Bala.
+- Chandra Bala.
+- Nakshatra compatibility.
+- Nakshatra transit.
+- Nakshatra-based Dasha.
+- Nakshatra-based Muhurta.
+
+---
+
+# 9. COMPLETE DIVISIONAL CHARTS — D1 TO D144
+
+This is a core requirement.
+
+Implement every recognized Varga calculation for which a defined and testable mapping convention is available.
+
+## Essential charts
+
+- D1 Rashi.
+- D2 Hora.
+- D3 Drekkana.
+- D4 Chaturthamsha.
+- D5 Panchamsha.
+- D6 Shashthamsha.
+- D7 Saptamsha.
+- D8 Ashtamsha.
+- D9 Navamsha.
+- D10 Dashamsha.
+- D11 Rudramsha.
+- D12 Dwadashamsha.
+- D16 Shodashamsha.
+- D20 Vimshamsha.
+- D24 Chaturvimshamsha.
+- D27 Bhamsa.
+- D30 Trimshamsha.
+- D40 Khavedamsha.
+- D45 Akshavedamsha.
+- D60 Shashtiamsha.
+
+Implement all sixteen Shodasha Vargas:
+
+D1, D2, D3, D4, D7, D9, D10, D12, D16, D20, D24, D27, D30, D40, D45 and D60.
+
+Also implement:
+
+- Sapta Varga.
+- Dasha Varga.
+- Shodasha Varga.
+- Other traditional groupings according to documented conventions.
+
+## Extended Vargas
+
+Provide an extensible system for:
+
+- D81.
+- D108.
+- D144.
+- Other recognized divisions where a reliable calculation methodology is available.
+
+Do not invent classical meanings or universally accepted interpretations for experimental divisions.
+
+Clearly classify each Varga as:
+
+- Classical and established.
+- Traditional school-specific.
+- Later interpretive convention.
+- Experimental/custom.
+
+## Varga calculation rules
+
+Never calculate every Varga through a generic longitude multiplication formula.
+
+Implement chart-specific rules, including:
+
+- Odd/even sign differences.
+- Movable/fixed/dual sign rules.
+- Starting-sign rules.
+- Sign divisions.
+- Ascendant mapping.
+- Planetary mapping.
+- Relevant Parashari conventions.
+
+## Varga functionality
+
+Every Varga must have:
+
+- Independent chart.
+- Ascendant.
+- Planetary positions.
+- Sign lords.
+- House lords.
+- Dignity.
+- Planetary strength.
+- Vargottama detection.
+- Relevant yogas.
+- Relevant interpretations.
+- Cross-Varga comparison.
+
+Implement:
+
+- D1 versus D9.
+- D1 versus D10.
+- D1 versus D7.
+- D1 versus D12.
+- D1 versus D16.
+- D1 versus D20.
+- D1 versus D24.
+- D1 versus D27.
+- D1 versus D30.
+- D1 versus D60.
+- Custom chart comparisons.
+
+Create a Varga strength matrix.
+
+---
+
+# 10. PROFESSIONAL RASHI, BHAVA CHALIT AND NAVAMSHA CHARTS
+
+Implement chart presentations comparable in information density and usability to professional Parashari astrology software.
+
+## Rashi chart
+
+Display:
+
+- North Indian chart.
+- South Indian chart.
+- East Indian chart.
+- Ascendant.
+- Twelve houses.
+- Signs.
+- Planetary abbreviations.
+- Degrees.
+- Retrograde markers.
+- Relevant planetary details.
+
+## Bhava Chalit
+
+Display:
+
+- Rashi chart.
+- Bhava Chalit chart.
+- Bhava Madhya.
+- Bhava Sandhi.
+- Cusp degrees.
+- House occupants.
+- Planets changing Bhava from Rashi placement.
+- House lord.
+- House strength.
+- House interpretation.
+
+Provide a comparison table:
+
+| Planet | Rashi | Rashi House | Bhava Chalit House |
+|---|---|---:|---:|
+
+Explain the house-system methodology used.
+
+## Navamsha
+
+Display:
+
+- D9 chart.
+- D9 Ascendant.
+- All planets.
+- Sign lords.
+- House lords.
+- Planetary dignity.
+- Exaltation.
+- Debilitation.
+- Own sign.
+- Vargottama.
+- Relevant D1 comparisons.
+- Marriage-related analysis.
+- Dharma-related analysis.
+- Planetary strength confirmation.
+
+## Interactive charts
+
+Selecting a planet must display its full calculated details.
+
+Selecting a house must display its lord, occupants, aspects, significators, strength and interpretation.
+
+Selecting a Varga must update the chart and all dependent analysis.
+
+---
+
+# 11. COMPLETE SHADBALA ENGINE
+
+Calculate:
+
+1. Sthana Bala.
+2. Dig Bala.
+3. Kala Bala.
+4. Cheshta Bala.
+5. Naisargika Bala.
+6. Drik Bala.
+
+Include applicable subcomponents:
+
+- Uchcha Bala.
+- Saptavargaja Bala.
+- Ojayugma Bala.
+- Kendra Bala.
+- Drekkana Bala.
+- Nathonnatha Bala.
+- Paksha Bala.
+- Tribhaga Bala.
+- Varsha-Masa-Dina-Hora Bala.
+- Ayana Bala.
+- Yuddha Bala where applicable.
+
+Display:
+
+- Raw calculations.
+- Rupas.
+- Required strength.
+- Actual strength.
+- Percentage where meaningful.
+- Planetary ranking.
+- Subcomponent breakdown.
+- Methodology.
+- Telugu explanation.
+
+---
+
+# 12. BHAVA BALA
+
+Calculate:
+
+- Bhavadhipati Bala.
+- Bhava Dig Bala.
+- Bhava Drishti Bala.
+- Total Bhava Bala.
+
+Display:
+
+- Strongest houses.
+- Weakest houses.
+- House comparison.
+- House lord strength.
+- Relevant planets.
+- Dasha activation.
+- Relevant divisional confirmation.
+- Detailed Bhava Phalalu.
+
+---
+
+# 13. ASHTAKAVARGA
+
+Implement:
+
+- Bhinnashtakavarga.
+- Sarvashtakavarga.
+- Bindu.
+- Rekha.
+- Planet-wise Ashtakavarga.
+- Sign-wise totals.
+- House-wise totals.
+- Trikona Shodhana.
+- Ekadhipatya Shodhana.
+- Shodhya Pinda.
+- Transit-based analysis.
+
+Provide traditional tables, chart representations, strength comparison and Telugu explanations.
+
+---
+
+# 14. AVASTHAS AND ADDITIONAL PLANETARY SYSTEMS
+
+Implement applicable systems:
+
+- Baladi Avastha.
+- Jagratadi Avastha.
+- Deeptadi Avastha.
+- Lajjitadi Avastha.
+- Shayana and other recognized Avasthas.
+- Vimsopaka Bala.
+- Ishta Phala.
+- Kashta Phala.
+- Planetary maturity.
+- Planetary war.
+- Other documented traditional strength methods.
+
+Identify the selected convention and mathematical formula.
+
+---
+
+# 15. COMPLETE YOGA ENGINE
+
+Detect and interpret:
+
+## Raja Yogas
+
+- Kendra-Trikona Raja Yoga.
+- Dharma-Karmadhipati Yoga.
+- Vipareeta Raja Yoga.
+- Neecha Bhanga Raja Yoga.
+- Gaja Kesari Yoga.
+- Panch Mahapurusha Yogas.
+- Other verified classical Raja Yogas.
+
+## Dhana Yogas
+
+- Dhana Yoga.
+- Lakshmi Yoga.
+- Chandra-Mangala Yoga.
+- Relevant wealth-producing combinations.
+- Other verified classical combinations.
+
+## Additional yogas
+
+- Budhaditya.
+- Saraswati.
+- Kemadruma.
+- Anapha.
+- Sunapha.
+- Durudhara.
+- Adhi.
+- Amala.
+- Vasumati.
+- Kahala.
+- Chamara.
+- Sanyasa.
+- Arishta.
+- Daridra.
+- Parivartana.
+- Other documented combinations.
+
+For every yoga show:
+
+- Formation rules.
+- Involved planets.
+- Involved houses.
+- Lords.
+- Strength.
+- Cancellation conditions.
+- Dasha activation.
+- Divisional confirmation.
+- Interpretation.
+- Classical reference where verified.
+
+---
+
+# 16. COMPLETE DOSHA ENGINE
+
+Implement:
+
+- Kuja Dosha.
+- Manglik Dosha.
+- Kala Sarpa Dosha.
+- Pitru Dosha.
+- Guru Chandal Yoga.
+- Grahana Dosha.
+- Kemadruma Dosha.
+- Shrapit Yoga.
+- Gandanta.
+- Other recognized conditions.
+
+Show formation, cancellation, severity according to the selected methodology, D1 and relevant Varga confirmation, and contextual interpretations.
+
+Do not create fear-based predictions.
+
+---
+
+# 17. COMPLETE DASHA SYSTEMS
+
+Implement:
+
+- Vimshottari.
+- Yogini.
+- Ashtottari.
+- Chara.
+- Narayana.
+- Kalachakra.
+- Shoola.
+- Mandooka.
+- Other supported traditional Dasha systems.
+
+For each system calculate:
+
+- Starting period.
+- Birth balance where applicable.
+- Mahadasha.
+- Antardasha.
+- Pratyantardasha.
+- Sookshma.
+- Prana where supported.
+- Start date.
+- End date.
+- Duration.
+- Current period.
+- Upcoming period.
+- Completed period.
+
+Respect each system's eligibility and calculation rules.
+
+Provide complete Dasha analysis in Telugu and English.
+
+---
+
+# 18. COMPLETE KP ASTROLOGY
+
+Implement a dedicated KP engine.
+
+Include:
+
+- KP Old.
+- KP New where supported.
+- Placidus cusps.
+- Cusp degree.
+- Star lord.
+- Sub-lord.
+- Sub-sub-lord.
+- Planetary significators.
+- House significators.
+- Ruling planets.
+- KP Dasha.
+- Horary 1–249.
+- Event timing.
+- Transit confirmation.
+
+Provide dedicated KP analysis for:
+
+- Marriage.
+- Career.
+- Job.
+- Business.
+- Education.
+- Children.
+- Property.
+- Finance.
+- Foreign travel.
+- Settlement abroad.
+
+Keep KP logic independent of Parashari logic.
+
+---
+
+# 19. COMPLETE JAIMINI ASTROLOGY
+
+Implement:
+
+- Seven Chara Karakas.
+- Eight Chara Karakas.
+- Atmakaraka.
+- Amatyakaraka.
+- Bhratrukaraka.
+- Matrukaraka.
+- Putrakaraka.
+- Gnatikaraka.
+- Darakaraka.
+- Karakamsha.
+- Swamsha.
+- Arudha Lagna.
+- Arudha Padas.
+- Upapada Lagna.
+- Rashi Drishti.
+- Argala.
+- Chara Dasha.
+- Narayana Dasha.
+- Jaimini yogas.
+
+Clearly identify the selected convention.
+
+---
+
+# 20. PANCHANGA AND HINDU CALENDAR
+
+Implement:
+
+- Tithi.
+- Vara.
+- Nakshatra.
+- Yoga.
+- Karana.
+- Paksha.
+- Masa.
+- Ritu.
+- Ayana.
+- Samvatsara.
+- Amanta.
+- Purnimanta.
+- Adhika Masa.
+- Kshaya Masa where applicable.
+- Sunrise.
+- Sunset.
+- Moonrise.
+- Moonset.
+- Rahu Kalam.
+- Yamagandam.
+- Gulika Kalam.
+- Durmuhurta.
+- Varjyam.
+- Abhijit Muhurta.
+- Regional calendar conventions.
+
+Provide daily Panchanga in Telugu and English.
+
+---
+
+# 21. MUHURTA
+
+Implement professional Muhurta calculations for:
+
+- Marriage.
+- Engagement.
+- Housewarming.
+- Griha Pravesham.
+- Business commencement.
+- Vehicle purchase.
+- Property registration.
+- Naming ceremony.
+- Annaprashana.
+- Upanayana.
+- Education.
+- Travel.
+- Other supported Samskaras.
+
+Evaluate Tithi, Vara, Nakshatra, Yoga, Karana, Tara Bala, Chandra Bala, Lagna, planetary strength, relevant Doshas and cancellations.
+
+Show calculated auspicious windows and transparent explanations.
+
+---
+
+# 22. GOCHARA AND TRANSIT ANALYSIS
+
+Calculate actual planetary transit positions and dates.
+
+Support:
+
+- Saturn.
+- Jupiter.
+- Rahu.
+- Ketu.
+- Mars.
+- Other planets.
+- Sign ingress.
+- Nakshatra ingress.
+- Retrograde.
+- Stationary.
+- Conjunctions.
+- Aspects.
+- Transit over natal planets.
+- Transit over natal houses.
+
+Special analysis:
+
+- Sade Sati.
+- Ashtama Shani.
+- Ardhastama Shani.
+- Dhaiya.
+- Jupiter transit.
+- Double transit.
+- Dasha and transit interaction.
+
+Allow analysis from Moon sign, Ascendant, natal planet or selected house.
+
+---
+
+# 23. VARSHAPHALA
+
+Implement:
+
+- Solar return.
+- Varsha Lagna.
+- Muntha.
+- Muntha lord.
+- Varsha lord.
+- Tajika aspects.
+- Sahams.
+- Annual planetary positions.
+- Annual Dasha.
+- Annual yogas.
+- Annual house analysis.
+
+Provide professional annual predictions with English and Telugu explanations.
+
+---
+
+# 24. BIRTH-TIME RECTIFICATION
+
+Implement:
+
+- Birth-time uncertainty range.
+- Event-based rectification.
+- Ascendant sensitivity.
+- Bhava cusp sensitivity.
+- Navamsha changes.
+- Divisional chart changes.
+- KP cusp changes.
+- Dasha consistency.
+- Historical event comparison.
+
+Allow users to enter important dated life events.
+
+Display candidate birth times, differences, supporting indicators and uncertainty.
+
+Never claim that a calculated birth time is objectively proven.
+
+---
+
+# 25. MARRIAGE COMPATIBILITY
+
+Implement:
+
+- Ashtakoota.
+- 36-point Guna Milan.
+- Varna.
+- Vashya.
+- Tara.
+- Yoni.
+- Graha Maitri.
+- Gana.
+- Bhakoot.
+- Nadi.
+- South Indian compatibility.
+- Dashakoota where applicable.
+- Kuja Dosha.
+- D1 comparison.
+- D9 comparison.
+- Seventh house.
+- Seventh lord.
+- Venus and Jupiter.
+- Relevant Dasha periods.
+
+Provide category-wise results, score, strengths, challenges and detailed Telugu explanations.
+
+Do not make marriage decisions based solely on a numerical score.
+
+---
+
+# 26. PRASHNA JYOTISHA
+
+Implement:
+
+- Question timestamp.
+- Question location.
+- Prashna Lagna.
+- Planetary positions.
+- Relevant houses.
+- Relevant significators.
+- Moon condition.
+- Relevant yogas.
+- KP Horary.
+- Traditional Prashna methodologies.
+
+Support marriage, employment, business, property, lost objects, travel, education and financial questions.
+
+Keep Prashna independent of natal chart calculations.
+
+---
+
+# 27. NUMEROLOGY
+
+Implement:
+
+- Vedic numerology.
+- Chaldean numerology.
+- Pythagorean numerology.
+- Lo Shu Grid.
+
+Calculate:
+
+- Birth number.
+- Life path.
+- Destiny.
+- Name number.
+- Compound number.
+- Personality.
+- Soul urge where supported.
+- Missing numbers.
+- Repeated numbers.
+- Name compatibility.
+- Business name.
+- Mobile number.
+- Vehicle number.
+- House number.
+
+Support Telugu and English names with clearly documented transliteration conventions.
+
+---
+
+# 28. WESTERN ASTROLOGY
+
+Implement a separate Western astrology subsystem.
+
+Include:
+
+- Tropical zodiac.
+- Natal chart.
+- Placidus.
+- Whole Sign.
+- Equal House.
+- Planetary aspects.
+- Minor aspects where configured.
+- Retrograde.
+- Transits.
+- Progressions.
+- Solar return.
+- Synastry.
+- Composite charts.
+- House placements.
+
+Do not mix Western and Vedic interpretations without explicitly identifying the selected system.
+
+---
+
+# 29. REMEDIES AND TRADITIONAL KNOWLEDGE
+
+Implement:
+
+- Mantras.
+- Stotras.
+- Puja.
+- Vrata.
+- Dana.
+- Graha Shanti.
+- Navagraha worship.
+- Gemstones.
+- Rudraksha.
+- Traditional fasting practices.
+- Temple traditions.
+- Vastu.
+- Lal Kitab.
+
+Show traditional basis, associated planet, relevant chart condition, method and Telugu explanation.
+
+Do not promise guaranteed results.
+
+---
+
+# 30. UNIVERSAL ASTROLOGY INTERPRETATION ENGINE
+
+Build a rule-based interpretation system supported by AI.
+
+Every interpretation must consider:
+
+1. Ascendant.
+2. Ascendant lord.
+3. Moon.
+4. Sun.
+5. House lordship.
+6. Planetary placement.
+7. Planetary dignity.
+8. Planetary strength.
+9. Aspects.
+10. Conjunctions.
+11. Yogas.
+12. Doshas.
+13. Relevant Vargas.
+14. Shadbala.
+15. Bhava Bala.
+16. Ashtakavarga.
+17. Dasha.
+18. Transit.
+19. Methodology-specific confirmation.
+
+Every interpretation must explain:
+
+- What the chart indicates.
+- Why it indicates it.
+- Which planets are involved.
+- Which houses are involved.
+- Which combinations support the result.
+- Which combinations contradict it.
+- Positive indications.
+- Challenging indications.
+- Relevant timing.
+- Uncertainty and limitations.
+
+Do not generate isolated placement interpretations as if they were complete predictions.
+
+Do not present astrological interpretations as scientifically established certainty.
+
+---
+
+# 31. AI ASTROLOGER
+
+Integrate Gemini or another configurable AI provider.
+
+The AI must use structured chart data from the actual calculation engine.
+
+Support:
+
+- English conversation.
+- Telugu conversation.
+- Chart-aware questions.
+- Birth horoscope analysis.
+- Dasha interpretation.
+- KP analysis.
+- Jaimini analysis.
+- Career.
+- Marriage.
+- Finance.
+- Education.
+- Transits.
+- Panchanga.
+- Muhurta.
+- Numerology.
+- Professional report generation.
+
+AI behaviour requirements:
+
+- Use the currently selected birth profile.
+- Respect calculation settings.
+- Identify the astrology methodology.
+- Never invent planetary positions.
+- Never invent classical references.
+- Explain its reasoning.
+- Identify conflicting indicators.
+- Use correct Telugu terminology.
+- Never guarantee an event.
+- Keep API keys server-side.
+- Save conversations securely.
+- Implement usage controls and error handling.
+
+---
+
+# 32. PROFESSIONAL ASTROLOGY REPORT ENGINE
+
+This is a core application feature.
+
+Create a dedicated professional report system with report templates, configurable sections, selectable languages, chart layouts and different levels of analytical depth.
+
+Reports must resemble polished professional astrologer's deliverables, not generic AI essays.
+
+## 32.1 Report types
+
+Implement:
+
+1. Complete Birth Horoscope.
+2. Telugu Jathakam.
+3. English Horoscope.
+4. Rashi Chart Report.
+5. Bhava Chalit Report.
+6. Navamsha Report.
+7. All Divisional Charts Report.
+8. Planetary Position Report.
+9. Bhava Analysis.
+10. Nakshatra Report.
+11. Shadbala Report.
+12. Bhava Bala Report.
+13. Ashtakavarga Report.
+14. Yoga and Dosha Report.
+15. Vimshottari Dasha Report.
+16. Other Dasha Reports.
+17. KP Report.
+18. Jaimini Report.
+19. Marriage Compatibility.
+20. Career Report.
+21. Finance Report.
+22. Education Report.
+23. Marriage Analysis.
+24. Transit Report.
+25. Sade Sati Report.
+26. Varshaphala.
+27. Panchanga.
+28. Muhurta.
+29. Prashna.
+30. Birth-Time Rectification.
+31. Numerology.
+32. Complete Professional Horoscope.
+
+## 32.2 Report depth
+
+Provide:
+
+- Basic.
+- Detailed.
+- Comprehensive professional.
+
+Allow users to select sections and charts before generating a report.
+
+## 32.3 Complete birth report structure
+
+Use this professional order:
+
+1. Cover page.
+2. Birth details.
+3. Calculation settings.
+4. Basic horoscope summary.
+5. Panchanga details.
+6. Rashi chart.
+7. Bhava Chalit chart.
+8. Navamsha chart.
+9. Other divisional charts.
+10. Planetary positions.
+11. House lordship.
+12. House analysis.
+13. Nakshatra analysis.
+14. Planetary dignity.
+15. Planetary relationships.
+16. Shadbala.
+17. Bhava Bala.
+18. Ashtakavarga.
+19. Yogas.
+20. Doshas.
+21. Vimshottari Dasha.
+22. Other applicable Dasha systems.
+23. KP analysis.
+24. Jaimini analysis.
+25. Career analysis.
+26. Financial analysis.
+27. Marriage analysis.
+28. Education analysis.
+29. Relevant transit analysis.
+30. Important timing periods.
+31. Traditional remedies where selected.
+32. Final synthesis.
+
+## 32.4 Professional chart presentation
+
+Every chart must be rendered from actual calculated data.
+
+Support:
+
+- North Indian.
+- South Indian.
+- East Indian.
+- Rashi.
+- Bhava Chalit.
+- Navamsha.
+- All selected Vargas.
+- KP chart.
+- Jaimini chart.
+- Ashtakavarga chart.
+
+Charts must be large enough to read and must never be distorted or cut off.
+
+Provide clear planetary abbreviations, sign numbers, house numbers, ascendant markers and retrograde symbols.
+
+## 32.5 Professional tables
+
+Provide consistent tables for:
+
+- Planetary positions.
+- House lordships.
+- Nakshatra and Pada.
+- Sign and house.
+- Degree.
+- Retrograde.
+- Combustion.
+- Dignity.
+- Shadbala.
+- Bhava Bala.
+- Ashtakavarga.
+- Dasha periods.
+- Varga comparisons.
+- Yoga and Dosha conditions.
+
+Use appropriate column widths and readable text.
+
+## 32.6 PDF and print
+
+Implement:
+
+- Unicode Telugu PDF.
+- English PDF.
+- Bilingual PDF.
+- Print-ready layouts.
+- Page numbers.
+- Headers and footers.
+- Bookmarks.
+- Table of contents.
+- Cover pages.
+- Consistent margins.
+- Page-break management.
+- Embedded fonts where supported.
+
+No broken Telugu glyphs, overlapping tables, truncated content or missing chart labels.
+
+## 32.7 Report design
+
+Create a professional visual language:
+
+- Clean white or subtle neutral background.
+- Restrained accent colors.
+- Clear heading hierarchy.
+- Consistent typography.
+- Readable planetary tables.
+- Properly spaced charts.
+- Minimal decorative elements.
+- Clear section separation.
+- Professional page numbering.
+
+Prioritize useful information over decorative design.
+
+---
+
+# 33. COMPLETE JYOTISHA AND SANATANA DHARMA KNOWLEDGE LIBRARY
+
+Build a structured knowledge library.
+
+## Jyotisha texts and subjects
+
+Include verified material from:
+
+- Brihat Parashara Hora Shastra.
+- Brihat Jataka.
+- Phaladeepika.
+- Saravali.
+- Jataka Parijata.
+- Uttara Kalamrita.
+- Jaimini Sutras.
+- Prashna Marga.
+- Muhurta Chintamani.
+- KP literature.
+- Other relevant traditional Jyotisha works.
+
+## Sanatana Dharma
+
+Include:
+
+- Vedas.
+- Upanishads.
+- Vedangas.
+- Brahmanas.
+- Aranyakas.
+- Itihasas.
+- Ramayana.
+- Mahabharata.
+- Bhagavad Gita.
+- Puranas.
+- Agamas.
+- Tantras.
+- Smritis.
+- Dharma Shastras.
+- Vedanta.
+- Yoga.
+- Sankhya.
+- Nyaya.
+- Vaisheshika.
+- Mimamsa.
+- Shaivism.
+- Vaishnavism.
+- Shaktism.
+- Temple traditions.
+- Mantras.
+- Stotras.
+- Yajnas.
+- Samskaras.
+- Karma.
+- Dharma.
+- Moksha.
+- Meditation.
+- Spiritual symbolism.
+
+Include advanced and lesser-known topics.
+
+Clearly distinguish original texts, translations, commentary, regional traditions and modern interpretations.
+
+Do not fabricate Sanskrit quotations or references.
+
+---
+
+# 34. CLEAN, PREMIUM AND MAXIMUM-FUNCTIONALITY UI/UX
+
+The application must be powerful internally but simple to navigate.
+
+## Design philosophy
+
+- Maximum functionality.
+- Minimum visual clutter.
+- Logical information hierarchy.
+- Consistent components.
+- Clear typography.
+- Fast interactions.
+- Responsive layout.
+- Professional astrology charts.
+- Readable tables.
+- Accessible controls.
+
+Do not place every advanced calculation on the main dashboard.
+
+Use a progressive disclosure design.
+
+## Main sidebar
+
+Organize navigation as:
+
+**Dashboard**
+- Overview.
+- Recent Charts.
+- Quick Actions.
+
+**Birth Horoscope**
+- Create Profile.
+- My Profiles.
+- Rashi.
+- Bhava Chalit.
+- Navamsha.
+- Divisional Charts.
+- Planetary Positions.
+- Nakshatra.
+
+**Calculations**
+- Shadbala.
+- Bhava Bala.
+- Ashtakavarga.
+- Avasthas.
+- Yogas.
+- Doshas.
+- Planetary Relationships.
+
+**Predictive Astrology**
+- Vimshottari.
+- Other Dashas.
+- Transits.
+- Sade Sati.
+- Varshaphala.
+- Event Analysis.
+
+**Advanced Astrology**
+- KP.
+- Jaimini.
+- Prashna.
+- Birth-Time Rectification.
+- Muhurta.
+
+**Special Modules**
+- Marriage Compatibility.
+- Numerology.
+- Western Astrology.
+- Panchanga.
+- Remedies.
+
+**AI Astrologer**
+- English.
+- Telugu.
+- Saved Conversations.
+
+**Reports**
+- Generate Report.
+- Saved Reports.
+- Telugu Reports.
+- English Reports.
+
+**Knowledge Library**
+- Jyotisha.
+- Sanatana Dharma.
+- Sanskrit Glossary.
+- Telugu Dictionary.
+
+**Settings**
+- Language.
+- Ayanamsha.
+- House System.
+- Calculation Preferences.
+- Profile Management.
+- Account.
+
+## Navigation behaviour
+
+Implement:
+
+- Expandable parent menus.
+- Child navigation.
+- Active menu highlighting.
+- Breadcrumbs.
+- Route synchronization.
+- Remembered expanded categories.
+- Navigation search.
+- Responsive mobile drawer.
+- Context-aware titles.
+- Keyboard accessibility.
+
+Every navigation item must open a working page.
+
+## Dashboard
+
+Display:
+
+- Active birth profile.
+- Lagna.
+- Rashi.
+- Nakshatra.
+- Current Mahadasha.
+- Current Antardasha.
+- Current transit highlights.
+- Quick chart access.
+- Recently generated reports.
+- Quick access to KP, D9 and D10.
+- Panchanga summary.
+
+Keep the dashboard clean. Do not overcrowd it with every available calculation.
+
+## Chart workspace
+
+Create a dedicated workspace with:
+
+- Chart selector.
+- Chart layout selector.
+- Planetary table.
+- Contextual detail panel.
+- Calculation settings.
+- Interpretation panel.
+- Report action.
+
+Allow users to switch between compact and detailed views.
+
+## Responsive behaviour
+
+Support:
+
+- Desktop.
+- Laptop.
+- Tablet.
+- Mobile.
+
+Do not simply shrink desktop tables to fit mobile. Create appropriate responsive layouts.
+
+---
+
+# 35. INTERACTIVE APPLICATION BEHAVIOUR
+
+All important chart and calculation components must be interactive.
+
+When a user selects a planet:
+
+- Highlight the planet.
+- Show its details.
+- Show D1 position.
+- Show selected Varga position.
+- Show house ownership.
+- Show Nakshatra.
+- Show aspects.
+- Show dignity.
+- Show strength.
+- Show relevant yogas.
+- Show Dasha relevance.
+- Show interpretation.
+
+When a user selects a house:
+
+- Highlight the house.
+- Show its lord.
+- Show occupants.
+- Show aspects.
+- Show significators.
+- Show Bhava Bala.
+- Show Varga information.
+- Show interpretation.
+
+When a user changes birth details or calculation settings:
+
+- Recalculate dependent results.
+- Invalidate stale cached calculations.
+- Update charts and reports.
+- Preserve unrelated settings.
+- Clearly indicate calculation changes.
+
+No decorative controls or nonfunctional buttons.
+
+---
+
+# 36. UNIVERSAL DATA ARCHITECTURE
+
+Build a centralized, normalized data architecture.
+
+Core entities:
+
+- Users.
+- BirthProfiles.
+- BirthDetails.
+- Locations.
+- ChartConfigurations.
+- RawCharts.
+- PlanetaryPositions.
+- HouseCusps.
+- NakshatraPositions.
+- DivisionalCharts.
+- Shadbala.
+- BhavaBala.
+- Ashtakavarga.
+- Yogas.
+- Doshas.
+- DashaPeriods.
+- Transits.
+- KPData.
+- JaiminiData.
+- PanchangaData.
+- MuhurtaData.
+- CompatibilityReports.
+- NumerologyReports.
+- Interpretations.
+- AIConversations.
+- SavedReports.
+- KnowledgeArticles.
+- Translations.
+- CalculationLogs.
+
+Use one canonical RawChart as the source of truth.
+
+Separate:
+
+- Astronomical calculations.
+- Astrological calculations.
+- Interpretation rules.
+- AI-generated explanations.
+- UI presentation.
+- Report generation.
+
+Implement:
+
+- Schema validation.
+- Calculation dependency tracking.
+- Cache invalidation.
+- Versioning.
+- Reproducibility.
+- Logging.
+- Error monitoring.
+- Data isolation.
+
+---
+
+# 37. ADMINISTRATION AND SECURITY
+
+Implement:
+
+- Secure authentication.
+- User roles.
+- User profile isolation.
+- Admin dashboard.
+- API configuration.
+- AI provider settings.
+- Usage tracking.
+- Rate limits.
+- Subscription controls where required.
+- Audit logs.
+- Error monitoring.
+- Database backups.
+- Secure report access.
+- Server-side API keys.
+
+Never expose private API credentials in frontend code.
+
+---
+
+# 38. TESTING AND MATHEMATICAL VALIDATION
+
+Every calculation must have automated tests.
+
+Validate against reliable reference calculations and documented traditional formulas.
+
+Test:
+
+- Planetary longitude.
+- Ayanamsha.
+- Ascendant.
+- Bhava cusps.
+- Nakshatra.
+- Pada.
+- Every implemented Varga.
+- Shadbala.
+- Bhava Bala.
+- Ashtakavarga.
+- Dasha balance.
+- Dasha dates.
+- KP cusps.
+- KP sub-lords.
+- Jaimini Karakas.
+- Panchanga.
+- Transits.
+- Muhurta.
+- Compatibility.
+- PDF output.
+
+Test:
+
+- Historical dates.
+- Multiple time zones.
+- Different locations.
+- Boundary degrees.
+- Sign transitions.
+- Nakshatra transitions.
+- Retrograde stations.
+- Birth-time changes.
+- Telugu font rendering.
+
+Implement regression tests.
+
+A feature is complete only when its calculations, data flow, interpretation, interactions and relevant output work correctly.
+
+---
+
+# 39. FINAL ONE-STEP EXECUTION CONTRACT
+
+Execute this as one unified implementation task.
+
+Do not split the requested deliverable into separate development prompts.
+
+Do not stop after implementing the interface.
+
+Do not provide only a feature checklist.
+
+Do not remove existing working functionality.
+
+Do not fabricate calculations or reference data.
+
+Do not use mock data as real horoscope results.
+
+Do not claim successful tests unless they have actually run.
+
+Implement every feasible feature in the existing architecture.
+
+Prioritize:
+
+1. Calculation accuracy.
+2. Complete astrology coverage.
+3. Correct Varga calculations.
+4. Professional Rashi, Bhava Chalit and Navamsha presentation.
+5. Complete English and Telugu support.
+6. Professional report generation.
+7. Clean UI/UX.
+8. Consistent data architecture.
+9. Security.
+10. Testing and reliability.
+
+Where a methodology has multiple accepted conventions, provide explicit configuration and identify the selected convention.
+
+Where a requested calculation is not sufficiently documented or cannot be verified, label it clearly rather than inventing a formula.
+
+---
+
+# 40. FINAL ACCEPTANCE CRITERIA
+
+ASTROJYOTISH PRO must function as a comprehensive professional astrology platform.
+
+A user must be able to:
+
+- Create and manage multiple birth profiles.
+- Calculate accurate birth charts.
+- View Rashi, Bhava Chalit and Navamsha professionally.
+- Access all implemented divisional charts.
+- Compare D1 with all relevant Vargas.
+- Inspect every planet, house, sign and Nakshatra.
+- Calculate Shadbala.
+- Calculate Bhava Bala.
+- Calculate Ashtakavarga.
+- Detect Yogas and Doshas.
+- Calculate multiple Dasha systems.
+- Perform Parashari analysis.
+- Perform KP analysis.
+- Perform Jaimini analysis.
+- Analyze transits.
+- Generate Varshaphala.
+- Calculate Panchanga.
+- Find Muhurta windows.
+- Perform Prashna analysis.
+- Perform birth-time rectification.
+- Perform marriage compatibility.
+- Use numerology.
+- Use Western astrology separately.
+- Access traditional remedies and knowledge.
+- Chat with an AI astrologer in Telugu and English.
+- Generate detailed professional astrology reports.
+- Export correctly formatted Telugu and English PDFs.
+- Use the entire application through a clean, organized interface.
+
+<PRIVATE_FINAL_OBJECTIVE>
+
+Build ASTROJYOTISH PRO as a complete, integrated, mathematically validated, highly functional, professional English and Telugu astrology operating platform.
+
+It must deliver the depth of professional astrology software, the precision of a properly engineered astronomical calculation system, the information quality of traditional Jyotisha analysis, the readability of professional reports and the simplicity of a modern premium application.
+
+**Maximum astrology capability. Complete calculations. All applicable Vargas. Professional Bhava and Navamsha analysis. Comprehensive reports. Clean UI/UX. No fake features. No missing core functionality.**
+
+</PRIVATE_FINAL_OBJECTIVE>
